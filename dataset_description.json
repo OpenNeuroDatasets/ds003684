@@ -9,8 +9,11 @@
     "Funding": [
         "NSERC Discovery Grant (RGPIN-2016-04890)",
         "Canada First Research Excellence Fund (BrainsCAN)"
-	],
+    ],
     "BIDSVersion": "1.0.1",
     "DatasetDOI": "TODO: eventually a DOI for the dataset",
-	"License": "CC0"
+    "License": "CC0",
+    "ReferencesAndLinks": [
+        "https://www.biorxiv.org/content/10.1101/2020.12.17.423254v3\\"
+    ]
 }
