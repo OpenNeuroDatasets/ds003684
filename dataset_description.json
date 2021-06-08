@@ -11,7 +11,7 @@
         "Canada First Research Excellence Fund (BrainsCAN)"
     ],
     "BIDSVersion": "1.0.1",
-    "DatasetDOI": "TODO: eventually a DOI for the dataset",
+    "DatasetDOI": "10.18112/openneuro.ds003684.v1.0.0",
     "License": "CC0",
     "ReferencesAndLinks": [
         "https://www.biorxiv.org/content/10.1101/2020.12.17.423254v3\\"
